@@ -2,7 +2,7 @@
 
 Explore Formula 1 circuits worldwide with an interactive and modern web application. This project uses React, React-Leaflet, and Tailwind CSS to provide a sleek, responsive experience for F1 fans.
 
----
+
 
 ## Features ✨
 
@@ -22,7 +22,7 @@ Explore Formula 1 circuits worldwide with an interactive and modern web applicat
 - **Lucide React icons** enhance the visual experience.
 - Includes **loading states** for smooth transitions and **empty states** for unselected circuits.
 
----
+
 
 ## Tech Stack 🛠️
 
@@ -32,4 +32,4 @@ Explore Formula 1 circuits worldwide with an interactive and modern web applicat
 - **TypeScript** for type safety
 - **Lucide React Icons** for visual elements
 
----
+
